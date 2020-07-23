@@ -1,4 +1,4 @@
-package sulijin.androidfinalproject;
+package com.example.assign5;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

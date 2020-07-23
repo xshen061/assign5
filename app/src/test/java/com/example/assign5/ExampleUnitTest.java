@@ -1,4 +1,4 @@
-package sulijin.androidfinalproject;
+package com.example.assign5;
 
 import org.junit.Test;
 
