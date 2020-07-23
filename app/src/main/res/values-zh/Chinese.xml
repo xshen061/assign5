@@ -25,7 +25,7 @@
     <string name="t_author">作者: 金素莉</string>
     <string name="t_version">版本: 1.0.0</string>
     <string name="t_help">
-        作者: 金素莉 \t\t 版本: 1.0.0 \n
+        作者: 盛夏 \t\t 版本: 1.0.0 \n
         -----------------------------------------\n\n
         1. 帮助 \n\n
         点 menu -> Help 显示帮助菜单. \n\n
@@ -139,7 +139,7 @@
     <string name="ID">序号</string>
     <string name="help">帮助</string>
     <string name="helpthermo">
-        1. App介绍 \n\n
+        1. 应用介绍 \n\n
         点击菜单 -> 关于，显示应用详细信息 \n\n
         2. 帮助 \n\n
         点击菜单 -> 帮助， 显示如何使用应用。 \n\n
@@ -166,7 +166,7 @@
     <string name="f_average_calories">平均卡路里</string>
     <string name="f_help">
 
-        作者： 靳二十一。 版本：1.0.0
+        作者： 盛夏。 版本：1.0.0
         1. 帮助
         点击帮助 -> 解释怎样使用这个软件
         2.点击增加
