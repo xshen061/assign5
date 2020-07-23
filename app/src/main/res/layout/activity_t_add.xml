@@ -19,9 +19,10 @@
         android:textSize="25dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Display1"
         android:layout_alignParentStart="true"
-        android:layout_alignParxentEnd="true"
+        android:layout_alignParentEnd="true"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true" />
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" />
 
     <fragment android:name="com.example.assign5.ActivityTrackingEditFragment"
         android:id="@+id/t_add_activity_fragment"
@@ -37,10 +38,11 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:layout_marginBottom="34dp"
-        android:layout_marginxEnd="37dp"
+        android:layout_marginEnd="37dp"
         android:background="#d3dbf8"
         android:text="@string/t_save"
-        android:layout_alignParentRight="true" />
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="37dp" />
 
     <Button
         android:id="@+id/t_cancel_new_activity"

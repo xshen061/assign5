@@ -45,7 +45,6 @@
         <activity
             android:name="HouseDetailActivity"
             android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar" />
-        />
         <activity android:name="f_activity"
             android:label="@string/title_activity_food"/>
         <activity android:name="F_NewEntryActivity" />
