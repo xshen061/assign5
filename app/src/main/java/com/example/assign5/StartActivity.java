@@ -32,6 +32,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
 
+/**
+ * The main page for the Apps, shows the toolbar with 4 items
+ */
+
+
 public class StartActivity extends Activity {
 
     @Override

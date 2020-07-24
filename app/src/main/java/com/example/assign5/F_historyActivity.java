@@ -42,6 +42,9 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This is the "history record" for food, give the list of records
+ */
 
 public class F_historyActivity extends Activity {
 

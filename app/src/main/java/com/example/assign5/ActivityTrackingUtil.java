@@ -28,6 +28,10 @@ package com.example.assign5;
 import java.text.SimpleDateFormat;
 import java.util.Locale;
 
+/**
+ * This is the exercise type with both languages
+ */
+
 public class ActivityTrackingUtil {
     private static SimpleDateFormat FORMATTER = new SimpleDateFormat("yyyy-MM-dd hh:mm", Locale.getDefault());
     public static SimpleDateFormat getDateFormatter() {

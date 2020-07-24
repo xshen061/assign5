@@ -27,6 +27,11 @@ package com.example.assign5;
  * author: Cynthia Xia Sheng 2020
  */
 
+/**
+ * the basic information of automobile for user
+ */
+
+
 public class AutoInfo {
         private String id;
         private String year;

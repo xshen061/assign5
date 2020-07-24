@@ -52,6 +52,10 @@ import java.util.HashMap;
 import java.util.Map;
 import static com.example.assign5.House_DatabaseHelper.TABLE_NAME;
 
+/**
+ * This class is the list of Thermo records
+ */
+
 
 public class trackingHouseActivity extends AppCompatActivity {
     private static final String ACTIVITY_NAME = "TrackingHouseActivity";

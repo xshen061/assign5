@@ -55,6 +55,10 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * This class is the main class of Activity 1 Exercise, shows the main page
+ */
+
 public class ActivityTrackingActivity extends AppCompatActivity {
     public static final String ID = "id";
     public static final String DESCRIPTION = "description";

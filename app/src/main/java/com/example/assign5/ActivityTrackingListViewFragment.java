@@ -43,7 +43,7 @@ import java.util.Map;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass for list of exercise records
  */
 public class ActivityTrackingListViewFragment extends Fragment {
     private ArrayList<Map> activityList = new ArrayList();

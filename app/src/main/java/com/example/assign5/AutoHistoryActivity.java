@@ -45,7 +45,9 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import java.util.ArrayList;
 
-
+/**
+ * this is history page of automobile to show all purchased history list
+ */
 public class AutoHistoryActivity extends Activity {
     protected static final String ACTIVITY_NAME = "AutoHistoryActivity";
     TextView time;

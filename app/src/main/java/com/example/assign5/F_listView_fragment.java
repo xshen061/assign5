@@ -39,7 +39,9 @@ import android.widget.ListView;
 import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Map;
-
+/**
+ * A simple {@link Fragment} subclass of listview of food records
+ */
 
 public class F_listView_fragment extends Fragment {
     Cursor f_c;

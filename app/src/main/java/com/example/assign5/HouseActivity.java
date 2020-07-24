@@ -28,7 +28,9 @@ package com.example.assign5;
 import android.os.Bundle;
 import android.app.Activity;
 
-
+/**
+ * Main page of Activity 3: Thermo
+ */
 
 public class HouseActivity extends Activity {
 

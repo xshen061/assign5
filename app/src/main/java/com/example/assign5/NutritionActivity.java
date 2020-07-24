@@ -28,6 +28,9 @@ package com.example.assign5;
 import android.os.Bundle;
 import android.app.Activity;
 
+/**
+ * The main page for Activity 2: food
+ */
 
 public class NutritionActivity extends Activity {
 

@@ -26,6 +26,7 @@ package com.example.assign5;
  * author: Cynthia Xia Sheng 2020
  */
 
+import android.app.Fragment;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -33,6 +34,9 @@ import android.view.ViewGroup;
 import android.widget.Button;
 import android.widget.TextView;
 
+/**
+ * A simple {@link Fragment} subclass. click on "static" showing fragment on main page of food
+ */
 
 public class F_staticFragment extends android.app.Fragment {
 

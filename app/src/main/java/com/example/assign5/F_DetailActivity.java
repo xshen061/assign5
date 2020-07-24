@@ -34,8 +34,11 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.view.View;
 import android.widget.Toast;
-
 import androidx.appcompat.app.AlertDialog;
+
+/**
+ * This is the detail page of food, user can update, delete
+ */
 
 public class F_DetailActivity extends Activity {
 

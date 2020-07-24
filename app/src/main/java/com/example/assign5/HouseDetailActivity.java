@@ -29,6 +29,9 @@ import android.app.Activity;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 
+/**
+ * detail page to show thermo (fragment only occupy half of the screen)
+ */
 
 public class HouseDetailActivity extends Activity {
 

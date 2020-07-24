@@ -34,7 +34,9 @@ import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-
+/**
+ * this is nutrition database
+ */
 
 public class Database_nutrition extends SQLiteOpenHelper {
 

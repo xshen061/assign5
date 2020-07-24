@@ -37,7 +37,7 @@ import java.util.Calendar;
  */
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass for list of automobile records
  */
 public class AutoHistFragment extends Fragment {
 

@@ -44,6 +44,9 @@ import android.widget.Spinner;
 import android.widget.Toast;
 import com.google.android.material.snackbar.Snackbar;
 
+/**
+ * This is A simple {@link Fragment} subclass that pop-up fragment to add Thermo
+ */
 
 public class Fragment_AddThermo extends Fragment {
 

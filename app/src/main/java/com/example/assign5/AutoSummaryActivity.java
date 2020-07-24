@@ -26,7 +26,6 @@ package com.example.assign5;
  * author: Cynthia Xia Sheng 2020
  */
 import android.content.Intent;
-
 import android.os.Bundle;
 import android.app.Activity;
 import android.util.Log;
@@ -37,7 +36,9 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.Calendar;
 
-
+/**
+ * this is the listview for purchase
+ */
 
 public class AutoSummaryActivity extends Activity {
     protected static final String ACTIVITY_NAME = "AutoSummaryActivity";

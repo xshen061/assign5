@@ -35,7 +35,8 @@
 
             android:dividerHeight="2px"
 
-            />
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true" />
     </LinearLayout>
 
     <ProgressBar

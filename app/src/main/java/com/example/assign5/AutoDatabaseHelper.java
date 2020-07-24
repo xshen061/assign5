@@ -35,6 +35,10 @@ import java.util.ArrayList;
 import java.util.Calendar;
 
 
+/**
+ * this class is Database for Activity 4: automobile
+ */
+
 public class AutoDatabaseHelper extends SQLiteOpenHelper {
 
     public static final String DATABASE_NAME = "myDatabase";

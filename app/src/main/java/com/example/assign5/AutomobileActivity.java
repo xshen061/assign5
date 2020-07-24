@@ -45,6 +45,9 @@ import com.google.android.material.snackbar.Snackbar;
 import java.util.ArrayList;
 import java.util.Calendar;
 
+/**
+ * This is add page for user to fill in
+ */
 
 public class AutomobileActivity extends AppCompatActivity {
 

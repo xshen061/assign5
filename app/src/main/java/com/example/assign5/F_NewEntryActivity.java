@@ -37,6 +37,9 @@ import androidx.appcompat.app.AlertDialog;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+ * This is "new records" page to add record
+ */
 
 public class F_NewEntryActivity extends Activity {
     EditText Edittype,Edittime,Editcarlories,Edittotal_Fat,Editcarbohydrate;

@@ -43,6 +43,9 @@ import android.widget.TextView;
 import android.widget.Toast;
 import java.util.Date;
 
+/**
+ * This class is "New Activity" to add exercise
+ */
 public class ActivityTrackingAddActivity extends Activity {
     private SQLiteDatabase writeableDB;
 

@@ -25,8 +25,15 @@ package com.example.assign5;
 /**
  * author: Cynthia Xia Sheng 2020
  */
+
+
 import android.text.InputFilter;
 import android.text.Spanned;
+
+/**
+ * set min and max number for hours and minutes
+ */
+
 
 public class InputFilterMinMax implements InputFilter {
 

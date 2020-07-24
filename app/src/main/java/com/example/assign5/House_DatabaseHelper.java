@@ -32,6 +32,10 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
+/**
+ * THis class is the database info for Activity 3: Thermo
+ */
+
 public class House_DatabaseHelper extends SQLiteOpenHelper {
 
 

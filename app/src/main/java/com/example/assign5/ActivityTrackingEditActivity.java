@@ -40,6 +40,10 @@ import android.widget.EditText;
 import android.widget.Spinner;
 import android.widget.Toast;
 
+/**
+ * This is the class to edit activity "Update activity" page
+ */
+
 public class ActivityTrackingEditActivity extends AppCompatActivity {
     private SQLiteDatabase writeableDB;
 

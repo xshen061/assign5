@@ -30,7 +30,9 @@ import android.app.FragmentManager;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
 
-
+/**
+ * THis is the detail page of automobile
+ */
 
 public class AutoDetailActivity extends Activity {
 

@@ -45,7 +45,9 @@ import androidx.appcompat.widget.Toolbar;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.snackbar.Snackbar;
 
-
+/**
+ * This is the main class for Activity 2: food
+ */
 public class f_activity extends AppCompatActivity {
     TextView textView;
     Database_nutrition f_db;

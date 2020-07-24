@@ -45,7 +45,7 @@ import java.util.TreeMap;
 
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link Fragment} subclass for statistics info
  */
 public class ActivityTrackingStatisticsFragment extends Fragment {
 

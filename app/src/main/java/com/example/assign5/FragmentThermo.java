@@ -48,6 +48,9 @@ import static com.example.assign5.House_DatabaseHelper.MINUTE;
 import static com.example.assign5.House_DatabaseHelper.TABLE_NAME;
 import static com.example.assign5.House_DatabaseHelper.Temperature;
 
+/**
+ * This is A simple {@link Fragment} subclass that pop-up fragment to edit/savenew/delete Thermo
+ */
 
 public class FragmentThermo extends Fragment {
 
